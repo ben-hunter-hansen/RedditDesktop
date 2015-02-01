@@ -1,0 +1,17 @@
+{
+	"subscribed":
+	{
+		"subreddits":
+		[
+			{"name":"DayZ"},
+			{"name":"ProgrammerHumor"},
+			{"name":"Programming"},
+			{"name":"PCMasterRace"},
+			{"name":"Gaming"},
+			{"name":"Ask Reddit"},
+			{"name":"InternetIsBeautiful"},
+			{"name":"EarthPorn"},
+			{"name":"FoodPorn"}
+		]
+	}
+}

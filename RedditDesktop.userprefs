@@ -1,0 +1,21 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../../../RedditDesktop/RedditDesktop/Services/PlaceholderService.cs">
+    <Files>
+      <File FileName="../../../../RedditDesktop/RedditDesktop/Views/MainWindow.cs" Line="1" Column="1" />
+      <File FileName="../../../../RedditDesktop/RedditDesktop/Program.cs" Line="1" Column="1" />
+      <File FileName="../../../../RedditDesktop/RedditDesktop/Builders/ListingBuilder.cs" Line="1" Column="1" />
+      <File FileName="../../../../RedditDesktop/RedditDesktop/Controllers/ListingController.cs" Line="1" Column="1" />
+      <File FileName="../../../../RedditDesktop/RedditDesktop/Utilities/RDHttp.cs" Line="1" Column="1" />
+      <File FileName="../../../../RedditDesktop/RedditDesktop/Services/PlaceholderService.cs" Line="82" Column="30" />
+      <File FileName="../../../../RedditDesktop/RedditDesktop/Controllers/SubscribedController.cs" Line="1" Column="1" />
+      <File FileName="../../../../RedditDesktop/RedditDesktop/Models/Listing.cs" Line="1" Column="1" />
+      <File FileName="../../../../RedditDesktop/RedditDesktop/Models/RedditModel.cs" Line="1" Column="1" />
+      <File FileName="../../../../RedditDesktop/RedditDesktop/Models/Subscribed.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
